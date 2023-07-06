@@ -1,0 +1,4 @@
+-> we use postman for post or get the request because we dont have the front end we check our 
+website is working or not from postman.
+
+amazon access key - AKIA2UEA4XQHISIWDWXY

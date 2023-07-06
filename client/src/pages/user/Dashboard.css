@@ -1,0 +1,67 @@
+/* Styling for the main heading */
+.display-1 {
+    background-color: #007bff;
+    color: #fff;
+    padding: 5rem;
+  }
+  
+  /* Styling for the sidebar */
+  .sidebar {
+    width: 20%;
+    background-color: #f8f9fa;
+    padding: 1rem;
+    /* Add additional styles as needed */
+  }
+  
+  /* Styling for the welcome message */
+  .welcome-message {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-top: 10%;
+  }
+  
+  .welcome-message h2 {
+    font-size: 2rem;
+    text-align: center;
+  }
+  
+  /* Styling for the container */
+  .container {
+    margin-top: 2rem;
+  }
+  
+  /* Styling for the ad count */
+  .ad-count {
+    text-align: center;
+    margin: 2rem 0;
+  }
+  
+  /* Styling for the load more button */
+  .load-more-btn {
+    display: flex;
+    justify-content: center;
+    margin: 2rem 0;
+  }
+  
+  .load-more-btn button {
+    background-color: #ffc107;
+    color: #fff;
+    border: none;
+    padding: 0.75rem 2rem;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .load-more-btn button:hover {
+    background-color: #ff9800;
+  }
+  
+  /* Styling for the ad cards */
+  .ad-card {
+    margin-bottom: 2rem;
+    /* Add additional styles as needed */
+  }
+  
